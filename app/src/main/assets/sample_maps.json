@@ -1,0 +1,164 @@
+{
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -7.99425,
+          "lng": 111.48337
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -7.977604267460163,
+            "lng": 111.48557766590064
+          },
+          "southwest": {
+            "lat": -7.977604267460163,
+            "lng": 111.48557766590064
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "Desa Kwajon Bungkal",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111748827927481214932\">Sugi Arto</a>"
+          ],
+          "photo_reference": "Aap_uEC2t-LPDVHphADdQQQJoanHTDPsPriBoubAj4k6ikGJBfX_zVggo5l0476yllmM-ihab_t-1ynoKUsCUjvisMa4lfGbGz4DC0NbthAmJvZ2Na5MhUpQPXg-01mhM1cF0aXvpxrSjNcFM_0BU6TFHVqJnPRNYnUK5GoEPQ_tESq_TZOW",
+          "width": 1039
+        }
+      ],
+      "place_id": "ChIJ6cDEK3_taS4RDeeegBqe3VM",
+      "plus_code": {
+        "compound_code": "MVX9+23 Rambutan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVX9+23"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ6cDEK3_taS4RDeeegBqe3VM",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "Kwajon adalah desa yang berada di kecamatan Bungkal, Kabupaten Ponorogo, Jawa Timur, Indonesia"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -7.95143,
+          "lng": 111.47235
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.306847670107278,
+            "lng": 106.8721531298927
+          },
+          "southwest": {
+            "lat": -6.309547329892722,
+            "lng": 106.8694534701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "SMPN 1 Jetis Ponorogo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117978095393678646411\">Gunawan MD</a>"
+          ],
+          "photo_reference": "Aap_uECmRz-0OPzS7hAjMqAzCSc9Mb6P20d1Lv7h1-cqNPEeiZSG41FQKcszcwgTLl2u7ZAcdveX-6DeZgNHKvOMI9V1qtqrVv9vrTmW4AqOHK9sJbXKnn0TKs2yd2x4FwrcQZ874Hf5W7L7NsbXrozbcox6t52AI_Y3_ybvaMCGQKsTYdgb",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJQxPk0vvxaS4RSQmSqEuXu0Y",
+      "plus_code": {
+        "compound_code": "MVRC+R8 Rambutan, East Jakarta City, Jakarta",
+        "global_code": "6P58MVRC+R8"
+      },
+      "rating": 5,
+      "reference": "ChIJQxPk0vvxaS4RSQmSqEuXu0Y",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Jl. Jenderal Sudirman No. 28 A, Jetis Ponorogo, Josari Kulon, Josari, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63473"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -7.83971,
+          "lng": 111.54239
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -6.303477520107278,
+            "lng": 106.8642462298927
+          },
+          "southwest": {
+            "lat": -6.306177179892722,
+            "lng": 106.8615465701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name": "SMKN 1 Jenangan Ponorogo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111655683874730652155\">FERRY MEDIONO SUNARKO</a>"
+          ],
+          "photo_reference": "Aap_uEBeaTrjlGwF937O0WHEvxai-V1k2lAhf1R8d6IBZ189SEtsLR5jkJ1Y4ygjr-45wIZ4MBwJ7A4etLn-MMaZjW_GyMQtkfQzB_I9KNba7EOPIRLI-31zC3wKwgHEv2ATameJlwclH6dgfPlZiL_jAH4HHL7IYaYwNYUvHIqluteOpopM",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJQ63BTYLtaS4RjvowNecq8NU",
+      "plus_code": {
+        "compound_code": "MVW7+35 Gedong, East Jakarta City, Jakarta",
+        "global_code": "6P58MVW7+35"
+      },
+      "rating": 4,
+      "reference": "ChIJQ63BTYLtaS4RjvowNecq8NU",
+      "scope": "GOOGLE",
+      "types": [
+        "pharmacy",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "Jl. Niken Gandini No.98, Plampitan, Setono, Kec. Jenangan, Kabupaten Ponorogo, Jawa Timur 63492"
+    }
+  ],
+  "status": "OK"
+}
